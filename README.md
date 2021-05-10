@@ -1,4 +1,4 @@
-# Carrito-Web-DEMO
+# Cart-Web-DEMO
 
 ### Descripción:
 
